@@ -14,7 +14,7 @@ class BootMaterialCssAsset extends AssetBundle
 	public $sourcePath = '@bower/bootstrap-material-design/dist';
 	public $css = [
 		'css/ripples.min.css',
-		'css/material-fullpalette.min.css'
+		'css/bootstrap-material-design.css'
 	];
 	public $depends = [
 		'yii\bootstrap\BootstrapAsset',
